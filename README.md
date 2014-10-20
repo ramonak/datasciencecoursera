@@ -1,4 +1,4 @@
-coursera_data_scientist
+datasciencecoursera
 =======================
 
 My repository for my Data Scientist courses at coursera
